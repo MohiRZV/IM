@@ -1,4 +1,4 @@
-# GWAS - the code
+# GWAS.ipynb - the code
 Proiectul are ca scop utilizarea datelor rezultate din studiul GWAS al NHGRI pentru a determina daca se poate discerne, cu acuratete buna, intre datele genetice care se refera la
 cancerul de san si cele care se refera la alte trasaturi sau boli.
 Pe partea de cod, structura este urmatoarea:
